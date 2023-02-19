@@ -10,4 +10,4 @@ print ("result : " + check)
 
 
 print("Done!")
-print("Thank you Narges...")
+print("Thank you Narges....")
